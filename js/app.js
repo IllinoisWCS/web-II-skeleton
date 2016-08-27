@@ -25,7 +25,7 @@ angular.module('jeopardyApp', ['ngRoute', 'ngSanitize'])
  * requests in the future. But for now, this is the one-stop-shop to getting
  * the question data.
  *
- * Write a QuestionService service here. All it does is fetch the data from the jeopardy.json file * and return it as a Promise.
+ * Write a QuestionService service here. All it does is fetch the data from the jeopardy.json file * and return it.
  */
 
 
